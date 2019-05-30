@@ -5,4 +5,4 @@
 ## de 200 y 900
 ##
 
-
+SELECT* FROM tbl1 WHERE K0 NOT IN ('A','B') AND C13 NOT IN (200,900) ORDER BY c14;
